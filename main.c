@@ -6,8 +6,10 @@
 int main()
  {   system("cls");
 
+    int d;
     int a = getchar();
     printf("%d",a);
+    scanf("%d\n",d );
 
 
     printf("hello world");
