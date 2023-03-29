@@ -10,7 +10,7 @@ int main()
     int a = getchar();
     printf("%d",a);
     scanf("%d\n",d );
-
+    printf("%d\n",d);
 
     printf("hello world");
     return 0;
